@@ -9,9 +9,9 @@ diff -Naur a/target/linux/ramips/base-files/etc/board.d/02_network b/target/linu
  	totolink,lr1200|\
  	unielec,u7621-06-256m-16m|\
  	unielec,u7621-06-512m-64m|\
-diff -Naur a/target/linux/ramips/dts/totolink-a7000r.dts b/target/linux/ramips/dts/totolink-a7000r.dts
---- a/target/linux/ramips/dts/totolink-a7000r.dts     1970-01-01 03:00:00.000000000 +0300
-+++ b/target/linux/ramips/dts/totolink-a7000r.dts     2020-04-30 12:42:33.771071855 +0300
+diff -Naur a/target/linux/ramips/dts/TOTOLINK-A7000R.dts b/target/linux/ramips/dts/TOTOLINK-A7000R.dts
+--- a/target/linux/ramips/dts/TOTOLINK-A7000R.dts     1970-01-01 03:00:00.000000000 +0300
++++ b/target/linux/ramips/dts/TOTOLINK-A7000R.dts     2020-04-30 12:42:33.771071855 +0300
 @@ -0,0 +1,123 @@
 +// SPDX-License-Identifier: GPL-2.0-or-later OR MIT
 +/dts-v1/;
